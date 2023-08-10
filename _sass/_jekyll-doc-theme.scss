@@ -18,6 +18,7 @@ html {
   
   
   .header-container {
+    height: 500px;
     background-color: black;
     background: url('../img/bg.jpg') no-repeat 50% 0;
     color: #fff;
@@ -30,7 +31,6 @@ html {
     background-size: auto;
     background-position: center 100%;
     margin-top: -37px;
-    height: 500px;
   }
   .navbar-container {
     font-size: 16px;
