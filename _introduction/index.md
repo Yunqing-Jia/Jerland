@@ -1,7 +1,7 @@
 ---
 title: JTRC Introduction
-sectionid: jtrc
-permalink: /introduction/index.md
+permalink: /introduction/home/
+redirect_from: /introduction/index.html
 ---
 
 ## Getting started
