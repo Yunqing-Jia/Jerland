@@ -1,5 +1,5 @@
 ---
-title: JTRC Introduction
+title: About JTRC
 permalink: /introduction/index/
 ---
 
