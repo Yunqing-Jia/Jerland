@@ -1,7 +1,7 @@
 ---
 title: JTRC Introduction
-permalink: /introduction/jtrc/
-redirect_from: /introduction/index.html
+permalink: /docs/home/
+redirect_from: /docs/index.html
 ---
 
 ## Getting started
