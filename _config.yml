@@ -52,9 +52,9 @@ defaults:
 
 - scope:
     path: _introduction
-    type: docs
+    type: introduction
   values:
-    layout: docs
+    layout: introduction
     sectionid: introduction
     seo:
       type: "WebPage"
@@ -63,6 +63,9 @@ collections:
   docs:
     permalink: /:collection/:path/
     output: true
+  introduction:
+    permalink: /:collection/:path/
+    output: true  
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
