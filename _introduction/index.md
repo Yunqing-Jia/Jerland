@@ -1,6 +1,6 @@
 ---
 title: JTRC Introduction
-permalink: /introduction/home/
+permalink: /introduction/jtrc/
 redirect_from: /introduction/index.html
 ---
 
