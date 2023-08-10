@@ -2,7 +2,7 @@
 title: JTRC Introduction
 sectionid: jtrc
 permalink: /introduction/home/
-redirect_from: /introduction/index.html
+redirect_from: /introduction/index.md
 ---
 
 ## Getting started
