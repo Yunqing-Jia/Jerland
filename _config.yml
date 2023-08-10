@@ -50,6 +50,15 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _introduction
+    type: docs
+  values:
+    layout: docs
+    sectionid: introduction
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
