@@ -18,7 +18,9 @@ is an integrated representation of Yunqing-Jia's collection in the field of traf
 It involves the management of transportation research, transportation science and technology, transportation, and 
 other related managements of Yunqing-Jia (Jerland) in the transport field. In other words, JTRC can represent Yunqing-Jia's
 transport ideology as an individual.
+</div>
 
+<div class="intro">
 The following figure illustrates the basic structure of JTRC.
 </div>
 
