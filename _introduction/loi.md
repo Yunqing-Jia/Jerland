@@ -3,10 +3,17 @@ title: Loi & Act
 permalink: /introduction/loi/
 ---
 
-
+<style>
+.intro{
+font-family:times;
+font-size:21px;
+}
+</style>
 
 <a name="tables"/>
+<div class="intro">
 JTRC is constrained by a series of loi and act for practical and operational considerations as shown in the following table.
+</div>
 
 No. | Code | Name
 --- | --- | ---
