@@ -6,8 +6,8 @@ permalink: /introduction/index/
 
 <style>
 .intro{
-font-family:arial;
-font-size:50px;
+font-family:times;
+font-size:25px;
 }
 </style>
 
