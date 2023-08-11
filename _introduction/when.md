@@ -1,5 +1,5 @@
 ---
-title: When's when in JTRC
+title: When's When in JTRC
 permalink: /introduction/when/
 ---
 
