@@ -19,9 +19,9 @@ It involves the management of transportation research, transportation science an
 other related managements of Yunqing-Jia (Jerland) in the transport field. In other words, JTRC can represent Yunqing-Jia's
 transport ideology as an individual.
 </div>
-
+<br>
 <div class="intro">
 The following figure illustrates the basic structure of JTRC.
 </div>
-
+<br>
 <img src="/Jerland/assets/img/JTRC_str.jpg">
