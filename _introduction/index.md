@@ -12,4 +12,4 @@ transport ideology as an individual.
 
 The following figure illustrates the basic structure of JTRC.
 
-<img src="/assets/img/Jerland.png">
+<img src="/Jerland/assets/img/Jerland.png">
