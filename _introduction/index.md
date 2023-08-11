@@ -17,6 +17,6 @@ The following figure illustrates the basic structure of JTRC.
   <title></title>
  </head>
  <body>
-  <img src="img/bg.jpg"/ width="300px" height="180px">
+  <img href="{{ "/img/bg.jpg" | relative_url }}"/ width="300px" height="180px">
  </body>
 </html>
