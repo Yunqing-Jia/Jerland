@@ -11,12 +11,5 @@ other related managements of Yunqing-Jia (Jerland) in the transport field. In ot
 transport ideology as an individual.
 
 The following figure illustrates the basic structure of JTRC.
-<html>
- <head>
-  <meta charset="utf-8" />
-  <title></title>
- </head>
- <body>
-  <img href="{{ "/assets/img/Jerland.png" | relative_url }}">
- </body>
-</html>
+
+<img src="/assets/img/Jerland.png">
