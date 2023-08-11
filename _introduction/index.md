@@ -7,7 +7,7 @@ permalink: /introduction/index/
 <style>
 .intro{
 font-family:times;
-font-size:25px;
+font-size:21px;
 }
 </style>
 
