@@ -3,6 +3,13 @@ title: When's when in JTRC
 permalink: /introduction/when/
 ---
 
+<style>
+.intro{
+font-family:times;
+font-size:21px;
+}
+</style>
+
 <div class="intro">
 The experience of JTRC has been through several years since 1999.
 And it seems that there are some memorable moments that could be personally remembered and marked for good, 
