@@ -59,11 +59,23 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _jmtr
+    type: jmtr
+  values:
+    layout: jmtr
+    sectionid: jmtr
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
     output: true
   introduction:
+    permalink: /:collection/:path/
+    output: true  
+  jmtr:
     permalink: /:collection/:path/
     output: true  
   posts:
