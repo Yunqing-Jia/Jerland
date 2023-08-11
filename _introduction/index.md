@@ -3,7 +3,16 @@ title: JTRC Introduction
 permalink: /introduction/index/
 ---
 
+
+<style>
+.intro{
+font-family:arial;
+font-size:50px;
+}
+</style>
+
 ## About JTRC
+<div class="intro">
 JTRC - Collector of TRansport, Jerland (French: Collectionneur de TRansport, Jonlaind; Mandarin: 贾云卿的交通日常)
 is an integrated representation of Yunqing-Jia's collection in the field of traffic & transport & transportation.
 It involves the management of transportation research, transportation science and technology, transportation, and 
@@ -11,5 +20,6 @@ other related managements of Yunqing-Jia (Jerland) in the transport field. In ot
 transport ideology as an individual.
 
 The following figure illustrates the basic structure of JTRC.
+</div>
 
 <img src="/Jerland/assets/img/Jerland.png">
