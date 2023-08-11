@@ -3,7 +3,12 @@ title: Loi & Act
 permalink: /introduction/loi/
 ---
 
-# | Code | Name
+
+
+<a name="tables"/>
+JTRC is constrained by a series of loi and act for practical and operational considerations as shown in the following table.
+
+Markdown | Less | Pretty
 --- | --- | ---
 1 | JL007-202308 | Transportation Research Loi
 2 | JL009-202308 | Research Supervision Loi
