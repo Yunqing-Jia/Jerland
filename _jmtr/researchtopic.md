@@ -20,13 +20,13 @@ permalink: /jmtr/researchtopic/
       <td>JMTR_2301</td>
       <td>JMTR_2109</td>
     </tr>
-    <tr class="primary">
+    <tr class="info">
       <td>2</td>
       <td>Large-scale traffic signal optimization</td>
       <td>JMTR_2107</td>
       <td>JMTR_2204</td>
     </tr>
-    <tr class="primary">
+    <tr class="info">
       <td> </td>
       <td> </td>
       <td>JMTR_2305</td>
