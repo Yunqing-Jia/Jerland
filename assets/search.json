@@ -24,6 +24,17 @@ permalink: search.json
   {% endfor %}
 {% endfor %}
 
+{% for section in site.data.jmtr %}
+  {% for item in section.jmtr %}
+    {% assign item_url = item | prepend:"/jmtr/" | append:"/" %}
+    {% assign p = site.jmtr | where:"url", item_url | first %}
+    {
+      "title": "{{ p.title }}",
+      "url": "{{ p.url | relative_url }}"
+    },
+  {% endfor %}
+{% endfor %}
+
   {% for post in site.posts %}
   {
   "title": "{{ post.title | escape }}",
