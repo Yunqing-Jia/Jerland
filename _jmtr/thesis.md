@@ -15,32 +15,21 @@ Sustainable Traffic Management and Control Strategy for Urban Intersections
 </div>
 
 <ul class="nav nav-tabs">
-  <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
-  <li><a href="#profile" data-toggle="tab">Profile</a></li>
-  <li class="disabled"><a>Disabled</a></li>
-  <li class="dropdown">
-    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-      Dropdown <span class="caret"></span>
-    </a>
-    <ul class="dropdown-menu">
-      <li><a href="#dropdown1" data-toggle="tab">Action</a></li>
-      <li class="divider"></li>
-      <li><a href="#dropdown2" data-toggle="tab">Another action</a></li>
-    </ul>
-  </li>
+  <li class="active"><a href="#home" data-toggle="tab">Overview</a></li>
+  <li><a href="#profile" data-toggle="tab">Abstract</a></li>
+  <li><a href="#keyword" data-toggle="tab">Keywords</a></li>
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="home">
-    <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+    <p>Duration: 14 weeks (Mar. 1st, 2021 - Jun. 6th, 2021)</p>
+    <p>Supervisior: Dr. Xiao Chen</p>
+    <p>Structure: 128 pages (6 chapters, 3 appendices)</p>
   </div>
   <div class="tab-pane fade" id="profile">
-    <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
+    <p>For the purpose of improving the sustainability of the transportation system, this project presents a sustainable traffic management and control strategy for urban intersections by optimizing traffic signals. The methodology applied in this project links the macroscopic models with the microscopic models, in which the fuel consumption model and the environment model are on the basis of the traffic model. In the corresponding sustainable traffic signal control problem, the optimization framework combines average travel time, fuel consumption and pollutant emissions and algorithm with limited computational budget is applied to collectively and dedicatedly solve the optimization problems by variouscombination of indicators in the objective function. Then, the solutions to the above problems are applied to an empirical study of Rangoon coastal network via Aimsun. The results indicate that the proposed methodology yields better performance than the existing signal control scheme in transport sustainability and evidently, outperforms more significantly while accompanying the offset optimization. So, the proposed methodology can provide strategic reference for a more sustainable transportation system.</p>
   </div>
-  <div class="tab-pane fade" id="dropdown1">
-    <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
-  </div>
-  <div class="tab-pane fade" id="dropdown2">
-    <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+  <div class="tab-pane fade" id="keyword">
+    <p>Large-scale traffic signal control; Transportation sustainability; Macroscopic model; Microscopic model; Multi-objective optimization.</p>
   </div>
 </div>
 
