@@ -18,7 +18,7 @@ permalink: /jmtr/researchtopic/
       <td>1</td>
       <td>Mixed traffic flow modelling under connected environment</td>
       <td>JMTR_2301</td>
-      <td>JMTR_2109</td>
+      <td>-</td>
     </tr>
     <tr class="info">
       <td>2</td>
@@ -30,6 +30,12 @@ permalink: /jmtr/researchtopic/
       <td> </td>
       <td> </td>
       <td>JMTR_2305</td>
+      <td>JMTR_2021</td>
+    </tr>
+    <tr class="info">
+      <td> </td>
+      <td> </td>
+      <td>(JMTS_2202)</td>
       <td>JMTR_2020</td>
     </tr>
   </tbody>
