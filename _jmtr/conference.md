@@ -14,10 +14,10 @@ font-size:21px;
 [1] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China
 </div>
 
-<a href="#" class="btn btn-primary active" aria-pressed="true">Paper</a>
-<a href="#" class="btn btn-success active" aria-pressed="true">Slice</a>
-<a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
-<a href="#" class="btn btn-default active" aria-pressed="true">Video</a>
+<a href="#" class="btn btn-primary" aria-pressed="true">Paper</a>
+<a href="#" class="btn btn-success" aria-pressed="true">Slice</a>
+<a href="#" class="btn btn-info" aria-pressed="true">Code</a>
+<a href="#" class="btn btn-warning" aria-pressed="true">Video</a>
 
 <br>
 <div class="intro">
