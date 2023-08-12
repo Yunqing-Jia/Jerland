@@ -21,3 +21,4 @@ No. | Code | Name
 2 | JL009-202308 | Research Supervision Loi
 3 | JA507-202303 | Transportation Research Act
 4 | JA509-202303 | Academic Integrity Act
+5 | JA511-202209 | Transport Safety Act
