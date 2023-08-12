@@ -15,7 +15,7 @@ font-size:21px;
 </div>
 
 <a href="#" class="btn btn-primary active" aria-pressed="true">Paper</a>
-<a href="#" class="btn btn-success active" aria-pressed="true">Slice</a>
+<a href="#" class="btn btn-success active" aria-pressed="true">Slide</a>
 <a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
 <a href="#" class="btn btn-warning active" aria-pressed="true">Video</a>
 
