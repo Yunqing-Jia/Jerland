@@ -25,14 +25,14 @@ font-size:21px;
 </div>
 <br>
 <div class="intro">
-[2] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China
+[3] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China
 </div>
 <br>
 <div class="intro">
-[2] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China
+[4] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China
 </div>
 <br>
 <div class="intro">
-[3] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China
+[5] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China
 </div>
 
