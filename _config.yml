@@ -68,6 +68,24 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _jmts
+    type: jmts
+  values:
+    layout: jmts
+    sectionid: jmts
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _more
+    type: more
+  values:
+    layout: more
+    sectionid: more
+    seo:
+      type: "WebPage"      
+
 collections:
   docs:
     permalink: /:collection/:path/
@@ -78,6 +96,12 @@ collections:
   jmtr:
     permalink: /:collection/:path/
     output: true  
+  jmts:
+    permalink: /:collection/:path/
+    output: true
+  more:
+    permalink: /:collection/:path/
+    output: true    
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
