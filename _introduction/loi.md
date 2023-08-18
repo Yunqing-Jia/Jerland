@@ -22,3 +22,4 @@ No. | Code | Name
 3 | JA507-202303 | Transportation Research Act
 4 | JA509-202303 | Academic Integrity Act
 5 | JA511-202209 | Transport Safety Act
+6 | JA702-202307 | Systematic Visualization Act
