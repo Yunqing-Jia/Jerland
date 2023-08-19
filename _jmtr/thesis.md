@@ -26,6 +26,7 @@ Sustainable Traffic Management and Control Strategy for Urban Intersections
     <p>Supervisior: Dr. Xiao Chen</p>
     <p>Structure: 128 pages, 34,779 words (6 chapters, 3 appendices)</p>
     <p>Affiliated Project: JMTR_2021 Project</p>
+    <a name="JMTR_2021"/>
   </div>
   <div class="tab-pane fade" id="profile">
     <p>For the purpose of improving the sustainability of the transportation system, this project presents a sustainable traffic management and control strategy for urban intersections by optimizing traffic signals. The methodology applied in this project links the macroscopic models with the microscopic models, in which the fuel consumption model and the environment model are on the basis of the traffic model. In the corresponding sustainable traffic signal control problem, the optimization framework combines average travel time, fuel consumption and pollutant emissions and algorithm with limited computational budget is applied to collectively and dedicatedly solve the optimization problems by variouscombination of indicators in the objective function. Then, the solutions to the above problems are applied to an empirical study of Rangoon coastal network via Aimsun. The results indicate that the proposed methodology yields better performance than the existing signal control scheme in transport sustainability and evidently, outperforms more significantly while accompanying the offset optimization. So, the proposed methodology can provide strategic reference for a more sustainable transportation system.</p>
