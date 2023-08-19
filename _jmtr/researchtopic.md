@@ -21,7 +21,7 @@ font-size:21px;
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="success">
       <td>1</td>
       <td>Mixed traffic flow modelling under connected environment</td>
       <td>JMTR_2301</td>
@@ -45,13 +45,13 @@ font-size:21px;
       <td>(JMTS_2202)</td>
       <td>JMTR_2020</td>
     </tr>
-    <tr>
+    <tr class="success">
       <td>3</td>
       <td>Unconventional intersection design</td>
       <td>JMTR_2107</td>
       <td>JMTR_2020</td>
     </tr>
-    <tr>
+    <tr class="success">
       <td> </td>
       <td> </td>
       <td> </td>
