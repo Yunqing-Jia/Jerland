@@ -37,7 +37,7 @@ font-size:21px;
       <td> </td>
       <td> </td>
       <td>JMTR_2305</td>
-      <td><a href="#JMTR_2021">JMTR_2021</a></td>
+      <td><a href="https://yunqing-jia.github.io/Jerland/jmtr/thesis/#JMTR_2021">JMTR_2021</a></td>
     </tr>
     <tr class="info">
       <td> </td>
