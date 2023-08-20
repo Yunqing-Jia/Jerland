@@ -23,7 +23,7 @@ font-size:21px;
   <tbody>
     <tr class="success">
       <td>1</td>
-      <td>Mixed traffic flow modelling under connected environment</td>
+      <td>Multi-modal mixed traffic flow modelling under connected environment</td>
       <td>JMTR_2301</td>
       <td>-</td>
     </tr>
@@ -47,7 +47,7 @@ font-size:21px;
     </tr>
     <tr class="success">
       <td>3</td>
-      <td>Unconventional intersection design</td>
+      <td>Unconventional intersection design and analysis</td>
       <td>JMTR_2107</td>
       <td>JMTR_2020</td>
     </tr>
