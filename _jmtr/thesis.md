@@ -25,7 +25,7 @@ Sustainable Traffic Management and Control Strategy for Urban Intersections
     <p>Duration: 14 weeks (Mar. 1st, 2021 - Jun. 6th, 2021)</p>
     <p>Supervisior: Dr. Xiao Chen</p>
     <p>Structure: 128 pages, 34,779 words (6 chapters, 3 appendices)</p>
-    <p>Affiliated Project: JMTR_2021 Project</p>
+    <p>Affiliated Program: JMTR_2021 Project</p>
     <a name="JMTR_2021"/>
   </div>
   <div class="tab-pane fade" id="profile">
