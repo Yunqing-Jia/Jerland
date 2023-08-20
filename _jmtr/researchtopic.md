@@ -10,14 +10,14 @@ font-size:21px;
 }
 </style>
 
-## Overview - JMTR Project Group
+## Overview - JMTR Program Group
 <table class="table table-striped table-hover ">
   <thead>
     <tr>
       <th>#</th>
       <th>Name</th>
-      <th>Ongoing Project</th>
-      <th>Historical Project</th>
+      <th>Ongoing Program</th>
+      <th>Historical Program</th>
     </tr>
   </thead>
   <tbody>
