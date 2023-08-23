@@ -10,7 +10,7 @@ font-size:21px;
 }
 </style>
 
-| Competition | Competition | Prize | Sort | Affiliated JMTS Project (JMTR Program) |
+| Year | Competition | Prize | Sort | Affiliated JMTS Project (JMTR Program) |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-----:|
 | 2022 | Jiangsu Provincial Research Smart Transportation Innovation and Practice Competition | 3rd | 4st author | - |
 | 2022 | MatherCup University Mathematical Modeling Competition | 1st | Co-author | JMTS_2204 |
@@ -19,7 +19,6 @@ font-size:21px;
 | 2019 | China Undergraduate Mathematical Contest in Modeling - Shaanxi Province | 2nd | Co-author | JMTS_2019 |
 | 2019 | The 9th Transportation Science & Technology Competition of Chang’an University | 3rd | 1st author | (JMTR_2019) |
 
-hello world!
 
 
 
