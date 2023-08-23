@@ -30,5 +30,6 @@ font-size:21px;
   </tbody>
 </table>
 
+<div class="intro">
 Do please feel free to contact me at any time!
-
+</div>
