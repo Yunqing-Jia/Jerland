@@ -14,21 +14,21 @@ font-size:21px;
   <thead>
     <tr>
       <th><img src="{{ "/assets/img/link-network.png" | relative_url }}" alt="interlinkpic" class="img-responsive" width='200' height='1000'></th>
-      <th><p>I. Email: <i class="fa fa-envelope-open-o" aria-hidden="true"></i></p>
+      <th><p>I. Email <i class="fa fa-envelope-open-o" aria-hidden="true"></i></p>
       <p>1. Personal <a href="mailto:Jonlaind@outlook.com">Jonlaind@outlook.com</a></p>
       <p>2. Educational <a href="mailto:yunqingjia@seu.edu.cn">yunqingjia@seu.edu.cn</a></p>
       <p>II. Research Gate: </p>
       <p>III. <a href="https://orcid.org/0000-0003-2335-2626">ORCID </a></p>
-      <p>IV. Linkedin: </p>
+      <p>IV. <a href="https://www.linkedin.com/in/yunqing-jia-jerland/">Linkedin </a><i class="fa fa-linkedin" aria-hidden="true"></i></p>
       <p>V. Google Scholar: </p>
       <p>VI. <a href="https://github.com/Yunqing-Jia">Github </a><i class="fa fa-github" aria-hidden="true"></i></p>
-      <p>VII. <a href="https://medium.com/@jonlaind">Medium </a></p>
-      <p>VIII. <a href="https://steamcommunity.com/profiles/76561198798505203/">Steam </a></p></th>
+      <p>VII. <a href="https://medium.com/@jonlaind">Medium </a><i class="fa fa-medium" aria-hidden="true"></i></p>
+      <p>VIII. <a href="https://steamcommunity.com/id/Jerland/">Steam </a><i class="fa fa-steam-square" aria-hidden="true"></i></p></th>
     </tr>
   </thead>
   <tbody>
   </tbody>
 </table>
 
-hello world!
+Do please feel free to contact me at any time!
 
