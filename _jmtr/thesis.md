@@ -33,11 +33,11 @@ Sustainable Traffic Management and Control Strategy for Urban Intersections
   <div class="tab-pane fade" id="keyword">
     <p><span class="label label-primary">Large-scale traffic signal control</span> </p>
     <p> </p>
-    <span class="label label-primary">Transportation sustainability</span> </p>
+    <p><span class="label label-primary">Transportation sustainability</span> </p>
     <p> </p>
-    <span class="label label-primary">Macroscopic model</span> </p>
+    <p><span class="label label-primary">Macroscopic model</span> </p>
     <p> </p>
-    <span class="label label-primary">Microscopic model</span> </p>
+    <p><span class="label label-primary">Microscopic model</span> </p>
     <p> </p>
     <p><span class="label label-primary">Multi-objective optimization</span> </p>
   </div>
