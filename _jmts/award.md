@@ -12,7 +12,7 @@ font-size:21px;
 
 | Year | Competition | Prize | Sort | Affiliated JMTS Project (JMTR Program) |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-----:|
-| 2022 | Jiangsu Provincial Research Smart Transportation Innovation and Practice Competition | 3rd | 4st author | - |
+| 2022 | Jiangsu Provincial Research Smart Transportation Innovation and Practice Competition | 3rd | 4th author | - |
 | 2022 | MatherCup University Mathematical Modeling Competition | 1st | Co-author | JMTS_2204 |
 | 2021 | The 18th China Post-Graduate Mathematical Contest in Modeling | 3rd | Co-author | JMTS_2110 |
 | 2021 | ’Challenge Cup’ Shaanxi Provincial College Student Competition - Academic Works | 1st | 2nd author | (JMTR_2020) |
