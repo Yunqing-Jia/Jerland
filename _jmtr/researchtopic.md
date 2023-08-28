@@ -47,7 +47,7 @@ font-size:21px;
     </tr>
     <tr class="success">
       <td>3</td>
-      <td>Unconventional intersection design and analysis</td>
+      <td>Optimization of contraflow left-turn lanes</td>
       <td>JMTR_2107</td>
       <td>JMTR_2020</td>
     </tr>
