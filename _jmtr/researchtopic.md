@@ -29,7 +29,7 @@ font-size:21px;
     </tr>
     <tr class="info">
       <td>2</td>
-      <td>Large-scale traffic signal optimization</td>
+      <td>Traffic signal optimization</td>
       <td><a href="#JMTR_2107">JMTR_2107</a></td>
       <td>JMTR_2204</td>
     </tr>
@@ -45,17 +45,23 @@ font-size:21px;
       <td>(JMTS_2202)</td>
       <td>JMTR_2020</td>
     </tr>
-    <tr class="success">
-      <td>3</td>
-      <td>Optimization of contraflow left-turn lanes</td>
-      <td>JMTR_2107</td>
-      <td>JMTR_2020</td>
-    </tr>
-    <tr class="success">
+    <tr class="info">
       <td> </td>
       <td> </td>
       <td> </td>
       <td>JMTR_2019</td>
+    </tr>
+    <tr class="success">
+      <td>3</td>
+      <td>Data-driven traffic models & methods</td>
+      <td>JMTR_2306</td>
+      <td>-</td>
+    </tr>
+    <tr class="success">
+      <td> </td>
+      <td> </td>
+      <td>JMTR_2202</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
