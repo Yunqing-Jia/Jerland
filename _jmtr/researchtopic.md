@@ -31,7 +31,7 @@ font-size:21px;
       <td>2</td>
       <td>Traffic signal optimization</td>
       <td><a href="#JMTR_2107">JMTR_2107</a></td>
-      <td><a href="#JMTR_2107">JMTR_2204</td>
+      <td><a href="#JMTR_2204">JMTR_2204</a></td>
     </tr>
     <tr class="info">
       <td> </td>
@@ -66,9 +66,24 @@ font-size:21px;
   </tbody>
 </table>
 
-## Research Program Description (Chronological Order)
+## Research Program Description
 ### I. Traffic signal optimization
-#### i. Robust time-of-day traffic signal control (JMTR_2204) <a name="JMTR_2204"/>
+#### i. Robust time-of-day traffic signal control (JMTR_2305, JMTR_2204) 
+<a name="JMTR_2305"/> <a name="JMTR_2204"/>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+          <img src="{{ "/assets/img/Jerland.png" | relative_url }}" alt="eurotruckpic" class="img-responsive" width='250' height='200'>
+        </div>
+        <div class="col-md-4">
+            <div class="intro">
+            JMTR - Management of Transportation Research, Jerland 
+            </div>
+        </div>
+    </div>
+</div>
+
 hello world!
 
 [JMTR_2107](#JMTR_2107)
