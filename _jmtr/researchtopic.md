@@ -84,6 +84,8 @@ font-size:21px;
     </div>
 </div>
 
+<br>
+
 <ul class="nav nav-tabs">
   <li class="active"><a href="#home" data-toggle="tab">Overview</a></li>
   <li><a href="#profile" data-toggle="tab">Presentation</a></li>
@@ -96,6 +98,8 @@ font-size:21px;
     <p>For.</p>
   </div>
 </div>
+
+<br>
 
 #### ii. Optimization of contraflow left-turn lanes (JMTR_2107, JMTR_2020, JMTR2019) 
 <a name="JMTR_2107"/> <a name="JMTR_2020"/> <a name="JMTR_2019"/>
@@ -112,6 +116,8 @@ font-size:21px;
         </div>
     </div>
 </div>
+
+<br>
 
 <ul class="nav nav-tabs">
   <li class="active"><a href="#cll" data-toggle="tab">Overview</a></li>
