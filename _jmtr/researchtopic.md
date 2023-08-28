@@ -68,7 +68,7 @@ font-size:21px;
 
 ## Research Program Description
 ### I. Traffic signal optimization
-#### i. Robust time-of-day traffic signal control (JMTR_2305, JMTR_2204) 
+#### i. Robust time-of-day traffic signal control (JMTR_2204) 
 <a name="JMTR_2305"/> <a name="JMTR_2204"/>
 
 <div class="container">
@@ -84,8 +84,56 @@ font-size:21px;
     </div>
 </div>
 
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#home" data-toggle="tab">Overview</a></li>
+  <li><a href="#profile" data-toggle="tab">Presentation</a></li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active in" id="home">
+    <p>JMTR_2204 Program is initiated to</p>
+  </div>
+  <div class="tab-pane fade" id="profile">
+    <p>For.</p>
+  </div>
+</div>
+
+#### ii. Optimization of contraflow left-turn lanes (JMTR_2107, JMTR_2020, JMTR2019) 
+<a name="JMTR_2107"/> <a name="JMTR_2020"/> <a name="JMTR_2019"/>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+          <img src="{{ "/assets/img/Jerland.png" | relative_url }}" alt="eurotruckpic" class="img-responsive" width='250' height='200'>
+        </div>
+        <div class="col-md-4">
+            <div class="intro">
+            JMTR - Management of Transportation Research, Jerland 
+            </div>
+        </div>
+    </div>
+</div>
+
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#cll" data-toggle="tab">Overview</a></li>
+  <li><a href="#cllpub" data-toggle="tab">Publication</a></li>
+  <li><a href="#cllpre" data-toggle="tab">Presentation</a></li>
+  <li><a href="#cllfund" data-toggle="tab">Fundings</a></li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active in" id="cll">
+    <p>JMTR_2204 Program is initiated to</p>
+  </div>
+  <div class="tab-pane fade" id="profile">
+    <p>For.</p>
+  </div>
+  <div class="tab-pane fade" id="cllpre">
+    <p>For.</p>
+  </div>
+  <div class="tab-pane fade" id="cllfund">
+    <p>For.</p>
+  </div>
+</div>
 hello world!
 
-[JMTR_2107](#JMTR_2107)
-<a name="JMTR_2107"/><a name="JMTR_2020"/>
+[JMTR_2000](#JMTR_2000)
 ## Headers
