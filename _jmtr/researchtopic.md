@@ -65,6 +65,7 @@ font-size:21px;
     </tr>
   </tbody>
 </table>
+
 ## Research Program Description (Chronological Order)
 ### I. Traffic signal optimization
 #### i. Robust time-of-day traffic signal control (JMTR_2204) <a name="JMTR_2204"/>
