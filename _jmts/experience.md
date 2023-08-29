@@ -72,7 +72,7 @@ font-size:21px;
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-          <img src="/Jerland/jmts/jmts_2002.png" class="center" width='350' height='350'>
+          <img src="/Jerland/jmts/jmts_2002.png" class="center" width='100' height='150'>
         </div>
         <div class="col-md-4">
             <div class="intro">
