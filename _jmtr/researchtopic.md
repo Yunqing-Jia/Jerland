@@ -68,17 +68,17 @@ font-size:21px;
 
 ## Research Program Description
 ### I. Traffic signal optimization
-#### i. Robust time-of-day traffic signal control (JMTR_2204) 
-<a name="JMTR_2305"/> <a name="JMTR_2204"/>
+#### i. Robust time-of-day traffic signal control (JMTR_2204, JMTR_2305) 
+
 
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-          <img src="{{ "/assets/img/Jerland.png" | relative_url }}" alt="eurotruckpic" class="img-responsive" width='250' height='200'>
+          <img src="/Jerland/jmtr/rts_ind.png" class="img-responsive" width='250' height='200'>
         </div>
         <div class="col-md-4">
             <div class="intro">
-            JMTR - Management of Transportation Research, Jerland 
+            Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate effiecient TOP control plan with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
             </div>
         </div>
     </div>
@@ -87,15 +87,21 @@ font-size:21px;
 <br>
 
 <ul class="nav nav-tabs">
-  <li class="active"><a href="#home" data-toggle="tab">Overview</a></li>
-  <li><a href="#profile" data-toggle="tab">Presentation</a></li>
+  <li class="active"><a href="#rtshome" data-toggle="tab">Overview</a></li>
+  <li><a href="#rtspre" data-toggle="tab">Presentation</a></li>
 </ul>
 <div id="myTabContent" class="tab-content">
-  <div class="tab-pane fade active in" id="home">
-    <p>JMTR_2204 Program is initiated to</p>
+  <div class="tab-pane fade active in" id="rtshome">
+    <img src="/Jerland/jmtr/rts_gan.png">
+    <p>JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection</p> <a name="JMTR_2204"/>
+    <p>JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level  intersections</p> <a name="JMTR_2305"/> 
   </div>
-  <div class="tab-pane fade" id="profile">
-    <p>For.</p>
+  <div class="tab-pane fade" id="rtspre">
+    <div class="intro">
+[1] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China (JMTR_2204)
+    </div>
+    <a href="#" class="btn btn-primary active" aria-pressed="true">Paper</a>
+    <a href="#" class="btn btn-success active" aria-pressed="true">Slide</a>
   </div>
 </div>
 
@@ -129,7 +135,7 @@ font-size:21px;
   <div class="tab-pane fade active in" id="cll">
     <p>JMTR_2204 Program is initiated to</p>
   </div>
-  <div class="tab-pane fade" id="profile">
+  <div class="tab-pane fade" id="cllpub">
     <p>For.</p>
   </div>
   <div class="tab-pane fade" id="cllpre">
