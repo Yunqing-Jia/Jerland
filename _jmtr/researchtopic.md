@@ -75,7 +75,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmtr/rts_ind.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate effiecient TOP control plan with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
             </div>
@@ -112,7 +112,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmtr/cll_ind.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             The contraflow left-turn lane (CLL) design provides a novel approach to alleviate congestion for those signalized intersections with heavy left-turn traffic. This program is initiated to develop models and methods to optimize traffic signal control schemes for isolated, arterial, and network level of signalized intersections with CLL.
             </div>
