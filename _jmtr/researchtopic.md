@@ -94,11 +94,11 @@ font-size:21px;
   <div class="tab-pane fade active in" id="rtshome">
     <img src="/Jerland/jmtr/rts_gan.png">
     <br>
-    <p><div style="font-size: 15px;"> JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection. </div></p>
-    <p><div style="font-size: 15px;"> JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</div></p>
+    <p><div style="font-size: 17px;"> JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection. </div></p>
+    <p><div style="font-size: 17px;"> JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</div></p>
   </div>
   <div class="tab-pane fade" id="rtspre"> 
-    <p><div style="font-size: 15px;"> [1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </div></p>
+    <p><div style="font-size: 17px;"> [1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </div></p>
   </div>
 </div>
 
@@ -133,23 +133,23 @@ font-size:21px;
   <div class="tab-pane fade active in" id="cll">
     <img src="/Jerland/jmtr/cll_gan.png">
     <br>
-    <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p>
+    <p><div style="font-size: 17px;">JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </div></p>
     <br>
-    <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p>
+    <p><div style="font-size: 17px;">JMTR_2020: Traffic signal optimization for arterial intersections with CLL</div></p>
     <br>
-    <p>JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</p>
+    <p><div style="font-size: 17px;">JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</div></p>
   </div>
   <div class="tab-pane fade" id="cllpub">
-    <p> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </p>
+    <p><div style="font-size: 17px;"> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </div></p>
   </div>
   <div class="tab-pane fade" id="cllpre">
-    <p>[1 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</p>
+    <p><div style="font-size: 17px;">[1 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
     <br>
-    <p>[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</p>
+    <p><div style="font-size: 17px;">[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
     <br>
-    <p>[3 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China </p>
+    <p><div style="font-size: 17px;">[3 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China </div></p>
     <br>
-    <p>[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China </p>
+    <p><div style="font-size: 17px;">[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China </div></p>
   </div>
   <div class="tab-pane fade" id="cllfund">
         <table class="table table-striped table-hover ">
