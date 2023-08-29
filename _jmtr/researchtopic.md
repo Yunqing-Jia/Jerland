@@ -73,7 +73,7 @@ font-size:21px;
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-          <img src="/Jerland/jmtr/rts_ind.png" class="img-responsive" width='300' height='300'>
+          <img src="/Jerland/jmtr/rts_ind.png" class="img-responsive" width='350' height='350'>
         </div>
         <div class="col-md-4">
             <div class="intro">
@@ -84,6 +84,7 @@ font-size:21px;
 </div>
 
 <br>
+<a name="JMTR_2204"/> <a name="JMTR_2305"/> 
 
 <ul class="nav nav-tabs">
   <li class="active"><a href="#rtshome" data-toggle="tab">Overview</a></li>
@@ -94,12 +95,10 @@ font-size:21px;
     <img src="/Jerland/jmtr/rts_gan.png">
     <br>
     <p>JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection</p>
-    <a name="JMTR_2204"/>
     <p>JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</p>
-    <a name="JMTR_2305"/> 
   </div>
   <div class="tab-pane fade" id="rtspre"> 
-<p>[1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </p>
+    <p>[1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </p>
   </div>
 </div>
 
@@ -121,6 +120,7 @@ font-size:21px;
 </div>
 
 <br>
+<a name="JMTR_2019"/> <a name="JMTR_2020"/> <a name="JMTR_2107"/> 
 
 <ul class="nav nav-tabs">
   <li class="active"><a href="#cll" data-toggle="tab">Overview</a></li>
@@ -134,13 +134,10 @@ font-size:21px;
     <img src="/Jerland/jmtr/cll_gan.png">
     <br>
     <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p>
-    <a name="JMTR_2019"/>
     <br>
     <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p>
-    <a name="JMTR_2020"/>
     <br>
     <p>JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</p>
-    <a name="JMTR_2107"/> 
   </div>
   <div class="tab-pane fade" id="cllpub">
     <p> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </p>
