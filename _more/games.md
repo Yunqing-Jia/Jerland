@@ -15,7 +15,7 @@ permalink: /more/games/
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>1</td>
       <td>
         Bus Simulator 16 / <a href="https://store.steampowered.com/app/515180/Bus_Simulator_18/">18</a>
       </td>
@@ -23,7 +23,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/bussim.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>2</td>
       <td>
         <a href="https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/">OMSI 2</a>
       </td>
@@ -31,7 +31,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/omsi2.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>1</td>
+      <td>3</td>
       <td>
         Euro Truck / <a href="https://eurotrucksimulator2.com/">Euro Truck 2</a>
       </td>
@@ -39,7 +39,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/Eurotruck.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>4</td>
       <td>
         <a href="https://store.steampowered.com/app/255710/Cities_Skylines/">Cities: Skylines</a>
       </td>
@@ -47,7 +47,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/skylines.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>5</td>
       <td>
         <a href="https://store.steampowered.com/app/1127500/Mini_Motorways/">Mini Motorways</a>
       </td>
@@ -55,7 +55,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/minimotor.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>6</td>
       <td>
         <a href="https://store.steampowered.com/app/231140/Cities_XL_Platinum/">Cities XL</a>
       </td>
@@ -63,7 +63,7 @@ permalink: /more/games/
       <td>-</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>7</td>
       <td>
         <a href="https://store.steampowered.com/app/24780/SimCity_4_Deluxe_Edition/">Simcity 4</a>
       </td>
@@ -71,7 +71,7 @@ permalink: /more/games/
       <td><img src="{{ "/assets/img/simcity.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>8</td>
       <td>
         <a href="https://store.steampowered.com/app/302080/Bus_Driver/">Bus Driver</a>
       </td>
