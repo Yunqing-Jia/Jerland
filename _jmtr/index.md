@@ -13,7 +13,7 @@ font-size:21px;
 
 ## About JMTR
 <div class="intro">
-JMTR - Management of Transportation Research, Jerland 
+JMTR - Management of Transportation Research, Jerland - is the transportation research managerial part of Jerland's personal connector. According to "JL007-202308 - II. 7", JMTR is functioning to manage detailed transportation research works, including establishing & following research programs, tackling transportation research problems, inter-academic communications, etc. 
 </div>
 <br>
 <div class="intro">
