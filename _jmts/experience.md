@@ -32,7 +32,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_2202.png" class="center" width='300' height='300'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_2202</p>
             <p>Project type: personal motivition</p>
@@ -51,7 +51,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmtr_2021.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project type: funding</p>
             <p>Funding: National Innovation and Entrepreneurship Training Program for Undergraduates of China under Grant No. 201810710008 </p>
@@ -74,7 +74,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_2002.png" class="center" width='250' height='250'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_2002</p>
             <p>Project type: funding</p>
@@ -96,7 +96,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_1907.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_1907</p>
             <p>Project type: funding</p>
@@ -119,7 +119,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_1909.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_1909</p>
             <p>Project type: personal motivition</p>
@@ -138,7 +138,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_2110.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_2110</p>
             <p>Project type: personal motivition</p>
@@ -157,7 +157,7 @@ font-size:21px;
         <div class="col-md-4">
           <img src="/Jerland/jmts/jmts_2204.png" class="center" width='350' height='350'>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="intro">
             <p>Project code: JMTS_2204</p>
             <p>Project type: personal motivition</p>
@@ -173,7 +173,7 @@ font-size:21px;
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-9">
             <div class="intro">
             <p>Project code: JMTS_1802</p>
             <p>Project type: funding</p>
