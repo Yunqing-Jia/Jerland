@@ -142,7 +142,7 @@ font-size:21px;
             <div class="intro">
             <p>Project code: JMTS_2110</p>
             <p>Project type: personal motivition</p>
-            <p>Competition award: 2nd award of China Undergraduate Mathematical Contest in Modeling - Shaanxi Province </p>
+            <p>Competition award: 3rd award of The 18th China Post-Graduate Mathematical Contest in Modeling </p>
             </div>
         </div>
     </div>
