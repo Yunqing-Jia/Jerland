@@ -131,31 +131,28 @@ font-size:21px;
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="cll">
-    <img src="/Jerland/jmtr/cll_gan.png"> <br>
-    <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p> <a name="JMTR_2019"/> <br>
-    <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p> <a name="JMTR_2020"/> <br>
-    <p>JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</p> <a name="JMTR_2107"/> 
+    <img src="/Jerland/jmtr/cll_gan.png">
+    <br>
+    <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p>
+    <a name="JMTR_2019"/>
+    <br>
+    <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p>
+    <a name="JMTR_2020"/>
+    <br>
+    <p>JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</p>
+    <a name="JMTR_2107"/> 
   </div>
   <div class="tab-pane fade" id="cllpub">
-    <div class="intro">
-[1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256.</div>
+    <p> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </p>
   </div>
   <div class="tab-pane fade" id="cllpre">
-    <div class="intro">
-[1 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China
-</div>
-<br>
-<div class="intro">
-[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China
-</div>
-<br>
-<div class="intro">
-[3 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China 
-</div>
-<br>
-<div class="intro">
-[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China 
-</div>
+    <p>[1 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</p>
+    <br>
+    <p>[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</p>
+    <br>
+    <p>[3 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China </p>
+    <br>
+    <p>[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China </p>
   </div>
   <div class="tab-pane fade" id="cllfund">
         <table class="table table-striped table-hover ">
