@@ -22,9 +22,11 @@ font-size:21px;
 [AGV scheduling strategy based on improved A star algorithm in unmanned warehouse](#jmts_2204)  
 [Intelligent transportation system component](#jmts_1802)  
 
+<a name="jmts_2202"/>
+
 ### I. Urban road network modelling & simulation based on field data
 #### i. A matrix-based coding tool for establishing urban road network topology
-<a name="jmts_2202"/>
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -40,8 +42,10 @@ font-size:21px;
     </div>
 </div>
 
-#### ii. Yangon road network modelling
 <a name="jmtr_2021"/>
+
+#### ii. Yangon road network modelling
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -60,9 +64,11 @@ font-size:21px;
     </div>
 </div>
 
+<a name="jmts_2002"/>
+
 ### II. Unconventional intersection design & analysis
 #### i. Continuous flow intersection (CFI) design
-<a name="jmts_2002"/>
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -81,8 +87,10 @@ font-size:21px;
     </div>
 </div>
 
-#### ii. Signalized roundabout design
 <a name="jmts_1907"/>
+
+#### ii. Signalized roundabout design
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -101,9 +109,11 @@ font-size:21px;
     </div>
 </div>
 
+<a name="jmts_1909"/>
+
 ### III. Operations research application in transportation & logistics
 #### i. Decision choice and revenue optimization model for airport taxi drivers
-<a name="jmts_1909"/>
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -119,8 +129,10 @@ font-size:21px;
     </div>
 </div>
 
-#### ii. Airline crew scheduling model
 <a name="jmts_2110"/>
+
+#### ii. Airline crew scheduling model
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -136,8 +148,10 @@ font-size:21px;
     </div>
 </div>
 
-#### iii. AGV scheduling strategy based on improved A star algorithm in unmanned warehouse
 <a name="jmts_2204"/>
+
+#### iii. AGV scheduling strategy based on improved A star algorithm in unmanned warehouse
+
 <div class="container">
     <div class="row">
         <div class="col-md-4">
@@ -153,8 +167,10 @@ font-size:21px;
     </div>
 </div>
 
-### IV. Intelligent transportation system component
 <a name="jmts_1802"/>
+
+### IV. Intelligent transportation system component
+
 <div class="container">
     <div class="row">
         <div class="col-md-8">
