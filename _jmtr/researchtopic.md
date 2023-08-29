@@ -104,7 +104,7 @@ font-size:21px;
 
 <br>
 
-#### ii. Optimization of contraflow left-turn lanes (JMTR_2107, JMTR_2020, JMTR2019) 
+#### ii. Optimization of contraflow left-turn lanes (JMTR_2107, JMTR_2020, JMTR_2019) 
 
 <div class="container">
     <div class="row">
