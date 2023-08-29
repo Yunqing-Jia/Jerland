@@ -109,7 +109,7 @@ font-size:21px;
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-          <img src="/Jerland/jmtr/cll_ind.png" class="img-responsive" width='250' height='200'>
+          <img src="/Jerland/jmtr/cll_ind.png" class="center" width='350' height='350'>
         </div>
         <div class="col-md-4">
             <div class="intro">
