@@ -95,7 +95,8 @@ font-size:21px;
     <img src="/Jerland/jmtr/rts_gan.png">
     <br>
     <p><div style="font-size: 16px;"> JMTR_2204: Joint optimization of TOD intervals and robust signal timing for isolated  intersection. </div></p>
-    <p><div style="font-size: 17px;"> JMTR_2305: Joint optimization of TOD intervals and robust signal timings for grid-level intersections</div></p>
+    <p><div style="font-size: 14px;"> Keywords: Bi-level optimization, Arrival-departure curve, BLEAQ_II algorithm, SUMO. </div></p>
+    <p><div style="font-size: 16px;"> JMTR_2305: Joint optimization of TOD intervals and robust signal timings for network-level intersections</div></p>
   </div>
   <div class="tab-pane fade" id="rtspre"> 
     <p><div style="font-size: 16px;"> [1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </div></p>
@@ -134,10 +135,12 @@ font-size:21px;
     <img src="/Jerland/jmtr/cll_gan.png">
     <br>
     <p><div style="font-size: 16px;">JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </div></p>
-    <br>
+    <p><div style="font-size: 14px;"> Keywords: queue accumulation polygon, Genetic algorithm. </div></p>
     <p><div style="font-size: 16px;">JMTR_2020: Traffic signal optimization for arterial intersections with CLL</div></p>
-    <br>
-    <p><div style="font-size: 16px;">JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</div></p>
+    <p><div style="font-size: 14px;"> Keywords: Multi-objective sustainability, NSGA-II. </div></p>
+    <p><div style="font-size: 16px;">JMTR_2107: Traffic signal optimization for grid-level 
+    intersections with CLL</div></p>
+    <p><div style="font-size: 14px;"> Keywords: Nonlinear programming. </div></p>
   </div>
   <div class="tab-pane fade" id="cllpub">
     <p><div style="font-size: 16px;"> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </div></p>
