@@ -141,3 +141,23 @@ font-size:21px;
         </div>
     </div>
 </div>
+
+### IV. Intelligent transportation system component
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+          <img src="/Jerland/jmts/jmts_1802.png" class="center" width='350' height='350'>
+        </div>
+        <div class="col-md-4">
+            <div class="intro">
+            <p>Project code: JMTS_1802</p>
+            <p>Project type: funding</p>
+            <p>Funding: Special Fund of Fundamental Scientific Research Business Expense for Central Universities (Sub-project for enhancing college students' innovation practice ability) under Grant No. 300102218801 </p>
+            <p>Funding name: Feasibility study of shared intelligent parking system </p>
+            <p>Role: PI </p>
+            <p>Duration: 2018.2 - 2018.11 </p>
+            </div>
+        </div>
+    </div>
+</div>
