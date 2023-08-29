@@ -43,13 +43,13 @@ font-size:21px;
       <td> </td>
       <td> </td>
       <td>(JMTS_2202)</td>
-      <td>JMTR_2020</td>
+      <td><a href="#JMTR_2020">JMTR_2020</td>
     </tr>
     <tr class="info">
       <td> </td>
       <td> </td>
       <td> </td>
-      <td>JMTR_2019</td>
+      <td><a href="#JMTR_2019">JMTR_2019</td>
     </tr>
     <tr class="success">
       <td>3</td>
@@ -73,7 +73,7 @@ font-size:21px;
 <div class="container">
     <div class="row">
         <div class="col-md-4">
-          <img src="/Jerland/jmtr/rts_ind.png" class="img-responsive" width='350' height='350'>
+          <img src="/Jerland/jmtr/rts_ind.png" class="center" width='350' height='350'>
         </div>
         <div class="col-md-4">
             <div class="intro">
@@ -94,11 +94,11 @@ font-size:21px;
   <div class="tab-pane fade active in" id="rtshome">
     <img src="/Jerland/jmtr/rts_gan.png">
     <br>
-    <p>JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection</p>
-    <p>JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</p>
+    <p><div style="font-size: 15px;"> JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection. </div></p>
+    <p><div style="font-size: 15px;"> JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</div></p>
   </div>
   <div class="tab-pane fade" id="rtspre"> 
-    <p>[1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </p>
+    <p><div style="font-size: 15px;"> [1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </div></p>
   </div>
 </div>
 
