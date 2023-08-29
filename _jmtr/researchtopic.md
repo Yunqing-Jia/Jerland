@@ -96,10 +96,8 @@ font-size:21px;
     <p>JMTR_2204: Joint optimization of time-of-day intervals and robust signal timing for isolated  intersection</p> <a name="JMTR_2204"/>
     <p>JMTR_2305: Joint optimization of time-of-day intervals and robust signal timings for grid-level intersections</p> <a name="JMTR_2305"/> 
   </div>
-  <div class="tab-pane fade" id="rtspre">
-    <div class="intro">
-[1] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China (JMTR_2204)
-    </div>
+  <div class="tab-pane fade" id="rtspre"> 
+<a>[1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </a>
     <a href="#" class="btn btn-primary active" aria-pressed="true">Paper</a>
     <a href="#" class="btn btn-success active" aria-pressed="true">Slide</a>
   </div>
