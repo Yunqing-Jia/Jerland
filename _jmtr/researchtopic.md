@@ -200,6 +200,10 @@ font-size:21px;
         </table>
   </div>
   <div class="tab-pane fade" id="cllaward">
+  | Year | Competition | Prize | Sort | Affiliated JMTR Program |
+  |:-------------:|:-------------:|:-------------:|:-------------:|:-----:|
+  | 2021 | ’Challenge Cup’ Shaanxi Provincial College Student Competition - Academic Works | 1st | 2nd author | JMTR_2020 |
+  | 2019 | The 9th Transportation Science & Technology Competition of Chang’an University | 3rd | 1st author | JMTR_2019 |
   </div>
 </div>
 hello world!
