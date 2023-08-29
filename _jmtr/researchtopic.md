@@ -77,7 +77,7 @@ font-size:21px;
         </div>
         <div class="col-md-5">
             <div class="intro">
-            Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate effiecient TOP control plan with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
+            Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate effiecient TOD control plan with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
             </div>
         </div>
     </div>
