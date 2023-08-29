@@ -98,8 +98,6 @@ font-size:21px;
   </div>
   <div class="tab-pane fade" id="rtspre"> 
 <a>[1 | JMTR_2204] <b>Jia, Y.</b>, An, C. (*), Lu, Z., & Xia, J. (2023). Joint optimization of time-of-day intervals and robust signal timing for isolated intersection. <i>23rd COTA International Conference of Transportation Professionals (CICTP2023)</i>, July 14-17, 2023, Beijing, China </a>
-    <a href="#" class="btn btn-primary active" aria-pressed="true">Paper</a>
-    <a href="#" class="btn btn-success active" aria-pressed="true">Slide</a>
   </div>
 </div>
 
@@ -131,9 +129,9 @@ font-size:21px;
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="cll">
-    <img src="/Jerland/jmtr/cll_gan.png">
-    <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p> <a name="JMTR_2019"/>
-    <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p> <a name="JMTR_2020"/> 
+    <img src="/Jerland/jmtr/cll_gan.png"> <br>
+    <p>JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </p> <a name="JMTR_2019"/> <br>
+    <p>JMTR_2020: Traffic signal optimization for arterial intersections with CLL</p> <a name="JMTR_2020"/> <br>
     <p>JMTR_2107: Traffic signal optimization for grid-level intersections with CLL</p> <a name="JMTR_2107"/> 
   </div>
   <div class="tab-pane fade" id="cllpub">
