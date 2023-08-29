@@ -146,10 +146,7 @@ font-size:21px;
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
-          <img src="/Jerland/jmts/jmts_1802.png" class="center" width='350' height='350'>
-        </div>
-        <div class="col-md-4">
+        <div class="col-md-8">
             <div class="intro">
             <p>Project code: JMTS_1802</p>
             <p>Project type: funding</p>
