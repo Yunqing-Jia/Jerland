@@ -200,13 +200,42 @@ font-size:21px;
         </table>
   </div>
   <div class="tab-pane fade" id="cllaward">
-  | Year | Competition | Prize | Sort | Affiliated JMTR Program |
-  |:-------------:|:-------------:|:-------------:|:-------------:|:-----:|
-  | 2021 | ’Challenge Cup’ Shaanxi Provincial College Student Competition - Academic Works | 1st | 2nd author | JMTR_2020 |
-  | 2019 | The 9th Transportation Science & Technology Competition of Chang’an University | 3rd | 1st author | JMTR_2019 |
+          <table class="table table-striped table-hover ">
+          <thead>
+          <tr>
+            <th>#</th>
+            <th>Year</th>
+            <th>Competition</th>
+            <th>Prize</th>
+            <th>Sort</th>
+            <th>Affiliated JMTR Program</th>
+          </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>2021</td>
+              <td>’Challenge Cup’ Shaanxi Provincial College Student Competition - Academic Works</td>
+              <td>1st</td>
+              <td>2nd author</td>
+              <td>JMTR_2020</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr>
+              <td>2</td>
+              <td>2019</td>
+              <td>The 9th Transportation Science & Technology Competition of Chang’an University</td>
+              <td>3rd</td>
+              <td>1st author</td>
+              <td>JMTR_2019</td>
+            </tr>
+          </tbody>
+        </table>
   </div>
 </div>
-hello world!
 
-[JMTR_2000](#JMTR_2000)
-## Headers
+<! hello world! >
+
+<! [JMTR_2000](#JMTR_2000) >
+<! ## Headers >
