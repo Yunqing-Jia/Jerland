@@ -77,7 +77,7 @@ font-size:21px;
         </div>
         <div class="col-md-5">
             <div class="intro">
-            Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate effiecient TOD control plan with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
+            Time-of-day (TOD) fixed timing strategy can be adopted in tackling traffic demand fluctuation within the day for urban signalized intersections. This program is initiated to develop methods & models that can generate efficient TOD control plans with robust signal timings for isolated (JMTR_2204) and arterial (JMTR_2305) signalized intersections.
             </div>
         </div>
     </div>
@@ -94,7 +94,7 @@ font-size:21px;
   <div class="tab-pane fade active in" id="rtshome">
     <img src="/Jerland/jmtr/rts_gan.png">
     <br>
-    <p><div style="font-size: 16px;"> JMTR_2204: Joint optimization of TOD intervals and robust signal timing for isolated  intersection. </div></p>
+    <p><div style="font-size: 16px;"> JMTR_2204: Joint optimization of TOD intervals and robust signal timing for isolated intersection. </div></p>
     <p><div style="font-size: 14px;"> Keywords: Bi-level optimization, Arrival-departure curve, BLEAQ_II algorithm, SUMO. </div></p>
     <p><div style="font-size: 16px;"> JMTR_2305: Joint optimization of TOD intervals and robust signal timings for network-level intersections</div></p>
   </div>
@@ -114,7 +114,7 @@ font-size:21px;
         </div>
         <div class="col-md-5">
             <div class="intro">
-            The contraflow left-turn lane (CLL) design provides a novel approach to alleviate congestion for those signalized intersections with heavy left-turn traffic. This program is initiated to develop models and methods to optimize traffic signal control schemes for isolated, arterial, and network level of signalized intersections with CLL.
+            The contraflow left-turn lane (CLL) design provides a novel approach to alleviate congestion for those signalized intersections with heavy left-turn traffic. This program is initiated to develop models and methods to optimize traffic signal control schemes for isolated, arterial, and network levels of signalized intersections with CLL.
             </div>
         </div>
     </div>
