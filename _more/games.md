@@ -59,7 +59,7 @@ permalink: /more/games/
       <td>
         <a href="https://store.steampowered.com/app/231140/Cities_XL_Platinum/">Cities XL</a>
       </td>
-      <td>2015</td>
+      <td>2013</td>
       <td>-</td>
     </tr>
     <tr>
