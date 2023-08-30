@@ -15,7 +15,7 @@ font-size:21px;
 <div class="container">
     <div class="row">
         <div class="col-md-3">
-          <img src="{{ "/assets/img/JMTS_icon.png" | relative_url }}" class="center" width='300' height='300'>
+          <img src="{{ "/assets/img/JMTS_icon.png" | relative_url }}" class="center" width='200' height='200'>
         </div>
         <div class="col-md-6">
             <div class="intro">
