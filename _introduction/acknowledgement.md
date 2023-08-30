@@ -12,7 +12,7 @@ font-size:21px;
 
 <p>
 <div class="intro">
-        First and foremost, Yunqing-Jia would like to express his great gratitude towards the author <a href="https://store.steampowered.com/app/515180/Bus_Simulator_18/">Aksakalli</a> for his fruitful work on Jekyll theme for creating project documentation websites.
+        First and foremost, Yunqing-Jia would like to express his great gratitude towards the author <a href="https://github.com/aksakalli/jekyll-doc-theme">Aksakalli</a> for his fruitful work on Jekyll theme for creating project documentation websites.
 </div>
 </p>
 <br>
