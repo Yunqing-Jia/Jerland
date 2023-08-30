@@ -19,7 +19,7 @@ font-size:21px;
         </div>
         <div class="col-md-6">
             <div class="intro">
-            JMTS - Management of Transportation Science & Technology, Jerland - is the transportation science and technology managerial part of Jerland's personal connector. According to "JL007-202308 - II. 8", JMTS is functioning to manage detailed works about real-world applications of transportation science & technologies, including frontier tracking, traffic design & evaluation, tool development, etc. 
+            JMTS - Management of Transportation Science & Technology, Jerland - is the transportation science and technology managerial part of Jerland's personal connector. According to "JL007-202308 - II. 8", JMTS is functioning to manage detailed works about real-world applications of transportation science & technologies, including frontier tracking, traffic design & evaluation, tool application & development, etc. 
             </div>
         </div>
     </div>
