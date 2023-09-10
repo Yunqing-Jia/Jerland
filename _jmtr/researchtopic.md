@@ -132,7 +132,7 @@ font-size:21px;
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="cll">
-    <img src="/Jerland/jmtr/cll_gan.png">
+    <img src="/Jerland/jmtr/cll_gan.png" class="center" width='800'>
     <br>
     <p><div style="font-size: 16px;">JMTR_2019: Traffic signal optimization for the isolated intersection with CLL </div></p>
     <p><div style="font-size: 14px;"> Keywords: queue accumulation polygon, Genetic algorithm. </div></p>
