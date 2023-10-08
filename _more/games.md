@@ -3,6 +3,19 @@ title: Prefered Transport Games
 permalink: /more/games/
 ---
 
+<style>
+.intro{
+font-family:times;
+font-size:21px;
+}
+</style>
+
+
+<div class="intro">
+  Accordance: JL007-202308 - X. 57
+  Sources: JL007-202308A7
+</div>
+
 
 <table class="table table-striped table-hover ">
   <thead>
