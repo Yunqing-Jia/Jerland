@@ -13,9 +13,11 @@ font-size:21px;
 
 <div class="intro">
   Accordance: JL007-202308 - X. 57
-  Sources: JL007-202308A7 (Annex VII)
 </div>
 
+<div class="intro">
+  Sources: JL007-202308A7 (Annex VII)
+</div>
 
 <table class="table table-striped table-hover ">
   <thead>
