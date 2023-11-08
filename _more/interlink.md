@@ -23,6 +23,7 @@ font-size:21px;
       <p>V. Google Scholar: </p>
       <p>VI. <a href="https://github.com/Yunqing-Jia">Github </a><i class="fa fa-github" aria-hidden="true"></i></p>
       <p>VII. <a href="https://medium.com/@jonlaind">Medium </a><i class="fa fa-medium" aria-hidden="true"></i></p>
+      <p>VIII. <a href="https://steamcommunity.com/id/jonlaind/">Steam </a><i class="fa fa-steam" aria-hidden="true"></i></p>
       </th>
     </tr>
   </thead>
