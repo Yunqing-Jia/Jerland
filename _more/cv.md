@@ -10,5 +10,5 @@ font-size:21px;
 }
 </style>
 
-<embed src="/Jerland/_more/JS008-202311.pdf" width="500" height="700" type="application/pdf">
+<embed src="/Jerland/assets/JS008-202311.pdf" width="500" height="700" type="application/pdf">
 
