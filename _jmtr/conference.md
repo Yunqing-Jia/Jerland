@@ -17,7 +17,6 @@ font-size:21px;
 <a href="https://ascelibrary.org/doi/10.1061/9780784484869.214" class="btn btn-primary active" aria-pressed="true">Paper</a>
 <a href="https://yunqing-jia.github.io/Jerland/jmtr/JMTR_2204S.pdf" class="btn btn-success active" aria-pressed="true">Slide</a>
 <a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
-<a href="#" class="btn btn-warning active" aria-pressed="true">Video</a>
 
 <br>
 <div class="intro">
@@ -35,4 +34,6 @@ font-size:21px;
 <div class="intro">
 [5] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China
 </div>
-
+<br>
+<a href="https://github.com/Yunqing-Jia/JMTR_2019/blob/main/JMTR_2019V1.mp4" class="btn btn-warning active" aria-pressed="true">Video 1</a>
+<a href="https://github.com/Yunqing-Jia/JMTR_2019/blob/main/JMTR_2019V2.mp4" class="btn btn-warning active" aria-pressed="true">Video 2</a>
