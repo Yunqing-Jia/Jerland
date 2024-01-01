@@ -37,6 +37,9 @@ font-size:21px;
             <p>Project type: research program motivation</p>
             <p>Affiliated research program: <a href="https://yunqing-jia.github.io/Jerland/jmtr/researchtopic/#JMTR_2107">JMTR_2107</a></p>
             <p>Open-source code: </p>
+            <a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
+            <a href="#" class="btn btn-primary active" aria-pressed="true">Report</a>
+            <a href="#" class="btn btn-success active" aria-pressed="true">Manual</a>
             </div>
         </div>
     </div>
