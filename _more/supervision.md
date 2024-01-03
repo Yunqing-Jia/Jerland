@@ -33,5 +33,12 @@ JCAI supervises and ensures that all activities of JTRC adhere to the following 
 </div>
 </p>
 <br>
+
+<p>
+<div class="introt">
+         <script src="https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633.js"></script>
+</div>
+</p>
+<br>
 </div>
 </div>
