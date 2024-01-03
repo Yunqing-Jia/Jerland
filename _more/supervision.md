@@ -34,14 +34,14 @@ JCAI supervises and ensures that all activities of JTRC adhere to the following 
 </div>
 <p>
 <div class="introt">
-         <a href="https://www.elsevier.com/about/policies-and-standards/publishing-ethics#4-duties-of-authors">Publishing</a>.
+        i. <a href="https://www.elsevier.com/about/policies-and-standards/publishing-ethics#4-duties-of-authors">Publishing</a>
 </div>
 </p>
 <br>
 
 <p>
 <div class="introt">
-         <script src="https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633.js"></script>
+        ii. <a href="https://gist.github.com/nicolasdao/a7adda51f2f185e8d2700e1573d8a633">Coding</a>
 </div>
 </p>
 <br>
