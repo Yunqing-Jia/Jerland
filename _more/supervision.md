@@ -24,7 +24,7 @@ JNSC Collector of Academic Integrity (JCAI)
 </div>
 </div>
 <div class="panel-body">
-<div class="introh">
+<div class="introt">
 JCAI supervises and ensures that all activities of JTRC adhere to the following academic ethical standards: 
 </div>
 <p>
