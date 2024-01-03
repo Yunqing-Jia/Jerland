@@ -24,12 +24,10 @@ font-size:15px;
 
 <div class="panel panel-default">
 <div class="panel-heading">
-<div class="introh">
 JNSC Collector of Academic Integrity (JCAI)
 </div>
-</div>
 <div class="panel-body">
-<div class="introt">
+<div class="introh">
 JCAI supervises and ensures that all activities of JTRC adhere to the following academic ethical standards: 
 </div>
 <p>
