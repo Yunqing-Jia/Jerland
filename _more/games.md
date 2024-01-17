@@ -43,7 +43,7 @@ font-size:21px;
         <a href="https://www.transportfever2.com/">Transport Fever 2</a>
       </td>
       <td>2022</td>
-      <td><img src="{{ "/assets/img/transfev.png" | relative_url }}" class="center" width='250' height='200'></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>3</td>
@@ -51,7 +51,7 @@ font-size:21px;
         <a href="https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/">OMSI 2</a>
       </td>
       <td>2022</td>
-      <td><img src="{{ "/assets/img/omsi2.png" | relative_url }}" class="center" width='250' height='200'></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>4</td>
