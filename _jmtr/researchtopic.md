@@ -146,13 +146,17 @@ font-size:21px;
     <p><div style="font-size: 16px;"> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </div></p>
   </div>
   <div class="tab-pane fade" id="cllpre">
-    <p><div style="font-size: 16px;">[1 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
+    <p><div style="font-size: 16px;">[1 | JMTR_2107] Traffic signal optimization for mitigating pollutant emissions of grid intersections with contraflow
+    left-turn lanes. <i>103rd Annual Meeting of the Transportation
+    Research Board (TRB 2024 Annual Meeting)</i>, January 7-11, 2024, Washington, D.C., United States.</div></p>
     <br>
-    <p><div style="font-size: 16px;">[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
+    <p><div style="font-size: 16px;">[2 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Pre-signal installation optimization to improve the operations of arterial management and control system with contraflow left-turn lanes. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
     <br>
-    <p><div style="font-size: 16px;">[3 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China </div></p>
+    <p><div style="font-size: 16px;">[3 | JMTR_2020] <b>Jia, Y.</b>, & Chen, X. (*). (2021). Arterial management and control system with contraflow left-turn lanes: An environmentally-friendly perspective. <i>The 20th and 21st Joint COTA International Conference of Transportation Professionals (CICTP20-21)</i>, December 17-20, 2021, Xi'an, China</div></p>
     <br>
-    <p><div style="font-size: 16px;">[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China </div></p>
+    <p><div style="font-size: 16px;">[4 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Dynamic Traffic Signal Control Optimization for the Intersection with Contraflow Left-turn Lanes. <i>19th COTA International Conference of Transportation Professionals (CICTP2019)</i>, July 6-8, 2019, Nanjing, China </div></p>
+    <br>
+    <p><div style="font-size: 16px;">[5 | JMTR_2019] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China </div></p>
   </div>
   <div class="tab-pane fade" id="cllfund">
         <table class="table table-striped table-hover ">
