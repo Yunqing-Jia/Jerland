@@ -146,7 +146,7 @@ font-size:21px;
     <p><div style="font-size: 16px;"> [1 | JMTR_2020] Chen, X. (*), & <b>Jia, Y.</b> (2021). Sustainable traffic management and control system for arterial with contraflow left-turn lanes. <i>Journal of Cleaner Production</i>, 280, 124256. </div></p>
   </div>
   <div class="tab-pane fade" id="cllpre">
-    <p><div style="font-size: 16px;">[1 | JMTR_2107] Traffic signal optimization for mitigating pollutant emissions of grid intersections with contraflow
+    <p><div style="font-size: 16px;">[1 | JMTR_2107] Chen, X. (*), <b>Jia, Y.</b> (2024). Traffic signal optimization for mitigating pollutant emissions of grid intersections with contraflow
     left-turn lanes. <i>103rd Annual Meeting of the Transportation
     Research Board (TRB 2024 Annual Meeting)</i>, January 7-11, 2024, Washington, D.C., United States.</div></p>
     <br>
