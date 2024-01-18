@@ -54,13 +54,13 @@ font-size:21px;
     <tr class="success">
       <td>3</td>
       <td>Data-driven traffic models & methods</td>
-      <td>JMTR_2306</td>
       <td>-</td>
+      <td>JMTR_2202</td>
     </tr>
     <tr class="success">
       <td> </td>
       <td> </td>
-      <td>JMTR_2202</td>
+      <td>-</td>
       <td>-</td>
     </tr>
   </tbody>
