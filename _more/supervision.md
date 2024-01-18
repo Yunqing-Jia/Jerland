@@ -22,9 +22,9 @@ font-size:15px;
 </div>
 
 
-<div class="panel panel-default">
+<div class="panel panel-success">
 <div class="panel-heading">
-JNSC Collector of Academic Integrity (JCAI)
+<h3 class="panel-title">JNSC Collector of Academic Integrity (JCAI)</h3>
 </div>
 <div class="panel-body">
 <div class="introh">
