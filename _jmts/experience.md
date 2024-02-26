@@ -39,7 +39,7 @@ font-size:21px;
             <p>Open-source code: </p>
             <a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
             <a href="#" class="btn btn-primary active" aria-pressed="true">Report</a>
-            <a href="#" class="btn btn-success active" aria-pressed="true">Manual</a>
+            <a href="https://github.com/Yunqing-Jia/JMTS_2202/blob/main/JMTS_2202_1_0R.pdf" target="_blank" class="btn btn-success active" aria-pressed="true">Manual</a>
             </div>
         </div>
     </div>
