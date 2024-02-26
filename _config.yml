@@ -32,7 +32,7 @@ exclude:
   - .gitignore
   - README.md
   - vendor
-timezone: Asia/Shanghai
+timezone: Europe/Brussels
 defaults:
 - scope:
     path: _posts
