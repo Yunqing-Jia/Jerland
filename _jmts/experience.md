@@ -36,10 +36,10 @@ font-size:21px;
             <p>Project code: JMTS_2202</p>
             <p>Project type: research program motivation</p>
             <p>Affiliated research program: <a href="https://yunqing-jia.github.io/Jerland/jmtr/researchtopic/#JMTR_2107">JMTR_2107</a></p>
-            <p>Open Access Files: </p>
+            <p>Open access files: </p>
             <a href="https://github.com/Yunqing-Jia/JMTS_2202" class="btn btn-info active" aria-pressed="true">Code</a>
-            <a href="https://github.com/Yunqing-Jia/JMTS_2202/blob/main/JMTS_2202_1_0R.pdf" target="_blank" class="btn btn-primary active" aria-pressed="true">Report</a>
-            <a href="https://github.com/Yunqing-Jia/JMTS_2202/blob/main/JMTS_2202_1_0M.pdf" target="_blank" class="btn btn-success active" aria-pressed="true">Manual</a>
+            <a href="https://yunqing-jia.github.io/Jerland/jmts/JMTS_2202_1_0R.pdf" target="_blank" class="btn btn-primary active" aria-pressed="true">Report</a>
+            <a href="https://yunqing-jia.github.io/Jerland/jmts/JMTS_2202_1_0M.pdf" target="_blank" class="btn btn-success active" aria-pressed="true">Manual</a>
             </div>
         </div>
     </div>
