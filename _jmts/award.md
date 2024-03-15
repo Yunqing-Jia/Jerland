@@ -1,5 +1,5 @@
 ---
-title: Award(s)
+title: Award
 permalink: /jmts/award/
 ---
 
