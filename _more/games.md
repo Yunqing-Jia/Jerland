@@ -59,7 +59,8 @@ font-size:21px;
         <a href="https://store.steampowered.com/app/255710/Cities_Skylines/">Cities: Skylines</a>
       </td>
       <td>2021</td>
-      <td><img src="{{ "/assets/img/skylines.png" | relative_url }}" class="center" width='250' height='200'></td>
+      <td><a href="https://www.youtube.com/watch?v=bWYeUXXY2J4
+" target="_blank"><img src="{{ "/assets/img/skylines.png" | relative_url }}" class="center" width='250' height='200' border="10" /></a></td>
     </tr>
     <tr>
       <td>5</td>
