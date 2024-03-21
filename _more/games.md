@@ -56,11 +56,11 @@ font-size:21px;
     <tr>
       <td>4</td>
       <td>
-        <a href="https://store.steampowered.com/app/255710/Cities_Skylines/">Cities: Skylines</a>
+        <p><a href="https://store.steampowered.com/app/255710/Cities_Skylines/">Cities: Skylines</a></p>
+        <p><a href="https://www.youtube.com/watch?v=bWYeUXXY2J4" class="btn btn-warning active" aria-pressed="true">Video</a></p>
       </td>
       <td>2021</td>
-      <td><a href="https://www.youtube.com/watch?v=bWYeUXXY2J4
-" target="_blank"><img src="{{ "/assets/img/skylines.png" | relative_url }}" class="center" width='250' height='200' border="10" /></a></td>
+      <td><img src="{{ "/assets/img/skylines.png" | relative_url }}" class="center" width='250' height='200'></td>
     </tr>
     <tr>
       <td>5</td>
