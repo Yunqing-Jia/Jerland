@@ -20,7 +20,7 @@ font-size:21px;
       <p>II. <a href="https://www.researchgate.net/profile/Yunqing-Jia-4">Research Gate </a></p>
       <p>III. <a href="https://orcid.org/0000-0003-2335-2626">ORCID </a></p>
       <p>IV. <a href="https://www.linkedin.com/in/yunqing-jia-jerland/">Linkedin </a><i class="fa fa-linkedin" aria-hidden="true"></i></p>
-      <p>V. Google Scholar: </p>
+      <p>V. <a href="#">Google Scholar </a><i class="fa fa-google" aria-hidden="true"></i></p>
       <p>VI. <a href="https://github.com/Yunqing-Jia">Github </a><i class="fa fa-github" aria-hidden="true"></i></p>
       <p>==========</p>
       <p>VII. <a href="https://medium.com/@jonlaind">Medium </a><i class="fa fa-medium" aria-hidden="true"></i></p>
