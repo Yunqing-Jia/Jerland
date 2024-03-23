@@ -25,6 +25,10 @@ font-size:21px;
       <p>==========</p>
       <p>VII. <a href="https://medium.com/@jonlaind">Medium </a><i class="fa fa-medium" aria-hidden="true"></i></p>
       <p>VIII. <a href="https://steamcommunity.com/id/jonlaind/">Steam </a><i class="fa fa-steam" aria-hidden="true"></i></p>
+      <p>IX. <a href="https://www.youtube.com/watch?v=bWYeUXXY2J4">YouTube </a><i class="fa fa-youtube-play" aria-hidden="true"></i></p>
+      <p>X. <a href="http://twitter.com/Jonlaind">X (Twitter) </a><i class="fa fa-twitter" aria-hidden="true"></i></p>
+      <p>XI. <a href="https://www.facebook.com/profile.php?id=61555475142323">Facebook </a><i class="fa fa-facebook-square" aria-hidden="true"></i></p>
+      <p>XII. <a href="https://www.instagram.com/jonlaind/">Instagram </a><i class="fa fa-instagram" aria-hidden="true"></i></p>
       </th>
     </tr>
   </thead>
