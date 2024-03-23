@@ -13,7 +13,7 @@ font-size:21px;
 <table class="table table-striped table-hover ">
   <thead>
     <tr>
-      <th><img src="{{ "/assets/img/link-network.png" | relative_url }}" alt="interlinkpic" class="img-responsive" width='270' height='360'></th>
+      <th><img src="{{ "/assets/img/link-network.png" | relative_url }}" alt="interlinkpic" class="img-responsive" width='257' height='360'></th>
       <th><p>I. Email <i class="fa fa-envelope-open-o" aria-hidden="true"></i></p>
       <p>1. Personal <a href="mailto:Jonlaind@outlook.com">Jonlaind@outlook.com</a></p>
       <p>2. Educational <a href="mailto:yunqingjia@seu.edu.cn">yunqingjia@seu.edu.cn</a></p>
