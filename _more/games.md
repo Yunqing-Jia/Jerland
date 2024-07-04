@@ -74,7 +74,7 @@ font-size:21px;
       <td>6</td>
       <td>       
         <p>Euro Truck / <a href="https://eurotrucksimulator2.com/">Euro Truck 2</a></p>
-        <p><a href="https://www.youtube.com/watch?v=gmSc3ZVFR8k&t=160s" class="btn btn-warning active" aria-pressed="true">Video</a></p>      
+        <p><a href="https://www.youtube.com/playlist?list=PLB_VLCz8KIBLuDXZ2OsmJc_620gfzSZNF" class="btn btn-warning active" aria-pressed="true">Video</a></p>      
       </td>
       <td>2019</td>
       <td><img src="{{ "/assets/img/Eurotruck.png" | relative_url }}" class="center" width='250' height='200'></td>
