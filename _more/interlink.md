@@ -16,7 +16,8 @@ font-size:21px;
       <th><img src="{{ "/assets/img/link-network.png" | relative_url }}" alt="interlinkpic" class="img-responsive" width='257' height='360'></th>
       <th><p>I. Email <i class="fa fa-envelope-open-o" aria-hidden="true"></i></p>
       <p>1. Personal <a href="mailto:Jonlaind@outlook.com">Jonlaind@outlook.com</a></p>
-      <p>2. Educational <a href="#">-</a></p>
+      <p>2. Business <a href="mailto:yunqingjia1999@gmail.com">-</a></p>
+      <p>3. Educational <a href="#">-</a></p>
       <p>II. <a href="https://www.researchgate.net/profile/Yunqing-Jia-4">Research Gate </a></p>
       <p>III. <a href="https://orcid.org/0000-0003-2335-2626">ORCID </a></p>
       <p>IV. <a href="https://www.linkedin.com/in/yunqing-jia-jerland/">Linkedin </a><i class="fa fa-linkedin" aria-hidden="true"></i></p>
