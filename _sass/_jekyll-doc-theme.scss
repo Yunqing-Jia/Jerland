@@ -19,7 +19,7 @@ html {
   
   .header-container {
     height: 30em;
-    weight: 120em;
+    width: 120em;
     background-color: black;
     background: url('../img/bg.png') no-repeat 50% 0;
     color: #fff;
@@ -28,7 +28,7 @@ html {
       color: #fff;
       font-size: 1500px;
     }
-    //background-attachment: fixed;//
+    background-attachment: fixed;
     background-size: contain;
     background-position: center 70%;
     margin-top: -30px;
