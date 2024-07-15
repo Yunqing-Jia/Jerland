@@ -17,7 +17,7 @@ and for the future.
 </div>
 <br>
 <!--<embed src="/Jerland/assets/JC702-202308.pdf#page=2" width="570" height="700" type="application/pdf">-->
-<img src="/Jerland/assets/img/JC702-202308P.png">
+<img src="/Jerland/assets/img/JC702-202407P.png">
 <!--<br>!-->
 <br>
 <!--Attachment: <a href="{{ "/introduction/JC702.pdf" | relative_url }}">JC702-202308</a>!-->
