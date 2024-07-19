@@ -32,15 +32,15 @@ Joint Optimization of Connected Bus Trajectories & Traffic Signals
   </div>
   <div class="tab-pane fade" id="keyword">
     <div style="font-size: 20px;">
-    <p><span class="label label-primary">Large-scale traffic signal control</span> </p>
+    <p><span class="label label-primary">Connected Bus</span> </p>
     <p> </p>
-    <p><span class="label label-primary">Transportation sustainability</span> </p>
+    <p><span class="label label-primary">Mixed Traffic Flow</span> </p>
     <p> </p>
-    <p><span class="label label-primary">Macroscopic model</span> </p>
+    <p><span class="label label-primary">Macro-microscopic Integration</span> </p>
     <p> </p>
-    <p><span class="label label-primary">Microscopic model</span> </p>
+    <p><span class="label label-primary">Model Predictive Control</span> </p>
     <p> </p>
-    <p><span class="label label-primary">Multi-objective optimization</span> </p>
+    <p><span class="label label-primary">Joint Optimization</span> </p>
     </div>
   </div>
 </div>
