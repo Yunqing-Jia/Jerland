@@ -10,6 +10,43 @@ font-size:21px;
 }
 </style>
 
+### M.E. Thesis
+<div class="intro">
+Joint Optimization of Connected Bus Trajectories & Traffic Signals
+</div>
+<a name="JMTR_2301"/>
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#home" data-toggle="tab">Overview</a></li>
+  <li><a href="#profile" data-toggle="tab">Abstract</a></li>
+  <li><a href="#keyword" data-toggle="tab">Keywords</a></li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade active in" id="home">
+    <p>Duration: 1 year (Jun. 1st, 2023 - Jun. 1st, 2024)</p>
+    <p>Supervisior: Dr. Jingxin Xia</p>
+    <p>Structure: 5 chapters</p>
+    <p>Affiliated Program: JMTR_2301 Program</p>
+  </div>
+  <div class="tab-pane fade" id="profile">
+    <p>With the continuous advancement of buses' connectivity levels, urban roads witness a mixed traffic flow comprising both connected buses and non-connected private cars. Leveraging the advantages brought by the connected environment and fully integrating the macroscopic state of mixed traffic flow with the microscopic trajectories of connected buses, the connected bus speed and traffic signals can be jointly optimized, significantly enhancing the refined management of urban road traffic. Presently, research predominantly considers either macroscopic traffic states or microscopic vehicle trajectories, lacking an integrated macro-microscopic traffic flow model that comprehensively represents the state of mixed traffic flow and bus driving behaviors. Moreover, existing methods mainly focus on connected bus speed guidance and transit signal priority control, neglecting the interactive influences among traffic signals, connected buses, and non-connected private cars. Therefore, this thesis combines traditional and advanced connected detection methods to estimate the state of mixed traffic flow and constructs an integrated macro-microscopic model. Building upon a thorough consideration of the mutual interactions between connected buses and non-connected private cars in mixed traffic flow, this thesis aims to maximize the overall efficiency of mixed traffic flow by jointly optimizing the link-level connected bus guidance speed and the intersection-level signal control scheme.</p>
+  </div>
+  <div class="tab-pane fade" id="keyword">
+    <div style="font-size: 20px;">
+    <p><span class="label label-primary">Large-scale traffic signal control</span> </p>
+    <p> </p>
+    <p><span class="label label-primary">Transportation sustainability</span> </p>
+    <p> </p>
+    <p><span class="label label-primary">Macroscopic model</span> </p>
+    <p> </p>
+    <p><span class="label label-primary">Microscopic model</span> </p>
+    <p> </p>
+    <p><span class="label label-primary">Multi-objective optimization</span> </p>
+    </div>
+  </div>
+</div>
+
+<br>
+
 ### B.E. Thesis
 <div class="intro">
 Sustainable Traffic Management and Control Strategy for Urban Intersections
