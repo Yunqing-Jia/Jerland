@@ -56,6 +56,7 @@ font-size:21px;
 
 ## Research Program Description
 ### I. Multi-modal mixed traffic flow modeling
+#### i. Joint optimization of connected bus trajectories & traffic signals (JMTR_2301) 
 
 <a name="JMTR_2301"/>
 <div class="container">
@@ -255,3 +256,7 @@ font-size:21px;
 
 <!--[JMTR_2000](#JMTR_2000)-->
 <!--## Headers-->
+
+<br>
+
+#### iii. Sustainable traffic management and control strategy for urban intersections (JMTR_2021) 
