@@ -23,8 +23,8 @@ font-size:21px;
   <tbody>
     <tr class="success">
       <td>1</td>
-      <td>Multi-modal mixed traffic flow modelling under connected environment</td>
-      <td>JMTR_2301</td>
+      <td>Multi-modal mixed traffic flow modeling under connected environment</td>
+      <td><a href="#JMTR_2301">JMTR_2301</a></td>
       <td>-</td>
     </tr>
     <tr class="info">
@@ -51,23 +51,27 @@ font-size:21px;
       <td> </td>
       <td><a href="#JMTR_2019">JMTR_2019</a></td>
     </tr>
-    <tr class="success">
-      <td>3</td>
-      <td>Data-driven traffic models & methods</td>
-      <td>-</td>
-      <td>JMTR_2202</td>
-    </tr>
-    <tr class="success">
-      <td> </td>
-      <td> </td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
   </tbody>
 </table>
 
 ## Research Program Description
-### I. Traffic signal optimization
+### I. Multi-modal mixed traffic flow modeling
+
+<div class="container">
+    <div class="row">
+          <img src="/Jerland/jmtr/mtfm_ind.png" class="center" width='350' height='350'>
+    </div>
+    <div class="row">
+          <div class="intro">
+            Leveraging the advantages brought by the connected environment and fully integrating the macroscopic state of mixed traffic flow with the microscopic trajectories of connected buses, the connected bus speed and traffic signals can be integrated into macro-microscopic models of mixed traffic flow to capture traffic flow dynamics more accurately by treating connected buses as moving bottlenecks.
+          </div>
+    </div>
+</div>
+
+<br>
+<a name="JMTR_2301"/>
+
+### II. Traffic signal optimization
 #### i. Robust time-of-day traffic signal control (JMTR_2204, JMTR_2305) 
 
 <div class="container">
