@@ -12,4 +12,4 @@ font-size:21px;
 
 Description | No. | Sort
 --- | --- | ---
-<a href="https://patents.google.com/patent/CN117389794A/en">Multi-view traffic data simultaneous recovery method</a> | CN117389794A | 2rd
+<a href="https://patents.google.com/patent/CN117389794A/en">Multi-view traffic data simultaneous recovery method</a> | CN117389794A | 2nd
