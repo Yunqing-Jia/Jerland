@@ -23,7 +23,7 @@ Research Board (TRB 2024 Annual Meeting)</i>, January 7-11, 2024, Washington, D.
 
 <a href="https://ascelibrary.org/doi/10.1061/9780784484869.214" class="btn btn-primary active" aria-pressed="true">Paper</a>
 <a href="https://yunqing-jia.github.io/Jerland/jmtr/JMTR_2204S.pdf" class="btn btn-success active" aria-pressed="true">Slide</a>
-<a href="#" class="btn btn-info active" aria-pressed="true">Code</a>
+<a href="https://github.com/Yunqing-Jia/JMTR_2204C" class="btn btn-info active" aria-pressed="true">Code</a>
 
 <br>
 <div class="intro">
