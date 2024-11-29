@@ -16,10 +16,7 @@ font-size:21px;
 ![Yunqing's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yunqing-Jia&show_icons=true&theme=react&rank_icon=percentile&hide=stars,prs,issues,contribs&show=reviews,prs_merged_percentage&include_all_commits=true)
 
 ### Frequently Used Languages
-![Yunqing's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunqing-Jia&layout=compact&theme=blueberry&layout=compact)
-
-### Github Visitor Count
-![Yunqing's Visitor Count](https://profile-counter.glitch.me/Yunqing-Jia/count.svg)
+![Yunqing's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunqing-Jia&layout=compact&theme=blueberry)
 
 
 hello world!
