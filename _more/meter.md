@@ -17,19 +17,6 @@ font-size:21px;
 </div>
 
 ### Github Activity Metrics
-<div class="container">
-    <div class="row">
-    <div class="col-md-5">
-          ![Yunqing's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yunqing-Jia&show_icons=true&theme=react&rank_icon=percentile&hide=stars,prs,issues,contribs&show=reviews,prs_merged_percentage&include_all_commits=true)
-    </div>
-    <div class="col-md-3">
-          ![Yunqing's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunqing-Jia&layout=compact&theme=blueberry)
-    </div>    
-    </div>
-    <div class="row">
-    <div class="col-md-8">
-          [![Yunqing's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunqing-Jia&theme=react-dark)]
-    </div>
-    </div>
-</div>
+| ![Yunqing's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yunqing-Jia&show_icons=true&theme=react&rank_icon=percentile&hide=stars,prs,issues,contribs&show=reviews,prs_merged_percentage&include_all_commits=true) | ![Yunqing's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunqing-Jia&layout=compact&theme=blueberry) |
 
+|[![Yunqing's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunqing-Jia&theme=react-dark)]|
