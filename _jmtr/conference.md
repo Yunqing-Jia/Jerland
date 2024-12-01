@@ -50,5 +50,13 @@ Research Board (TRB 2024 Annual Meeting)</i>, January 7-11, 2024, Washington, D.
 <div class="intro">
 [6] <b>Jia, Y.</b>, & Chen, X. (*). (2019). Traffic Signal Coordination Control Optimization for Reducing Traffic Emissions of Intersection with Contraflow Left-turn Lane. <i>World Transport Convention (WTC2019)</i>, June 13-16, 2019, Beijing, China
 </div>
-<a href="https://yunqing-jia.github.io/Jerland/assets/JMTR_2019V1.mp4" class="btn btn-warning active" aria-pressed="true">Video 1</a>
-<a href="https://yunqing-jia.github.io/Jerland/assets/JMTR_2019V2.mp4" class="btn btn-warning active" aria-pressed="true">Video 2</a>
+<div class="btn-toolbar" role="toolbar">
+<div class="btn-group">
+  <a href="#" class="btn btn-warning active" aria-pressed="true">Video</a>
+  <a href="#" class="btn btn-warning active dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    <li><a href="https://yunqing-jia.github.io/Jerland/assets/JMTR_2019V1.mp4">Video 1</a></li>
+    <li><a href="https://yunqing-jia.github.io/Jerland/assets/JMTR_2019V2.mp4">Video 2</a></li>
+  </ul>
+</div>
+</div>
