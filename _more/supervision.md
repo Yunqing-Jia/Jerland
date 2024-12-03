@@ -1,5 +1,5 @@
 ---
-title: Supervision
+title: Self Supervision
 permalink: /more/supervision/
 ---
 
